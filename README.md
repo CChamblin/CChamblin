@@ -8,9 +8,9 @@
 - 📫 How to reach me: chamblin145@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like building my own custom furniture out of wood using joinery techniques. 
-- 🧗‍♂️ Hobbies: Judo, jiu jitsu, bouldering, powerlifting, and woodworking.
+- 🧗‍♂️ Hobbies: judo, jiu jitsu, bouldering, powerlifting, and woodworking.
 
-### Connecct with me on LinkedIn
+### Connect with me on LinkedIn!
 
 https://www.linkedin.com/in/christopher-chamblin/
 
