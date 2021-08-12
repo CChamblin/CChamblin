@@ -21,3 +21,8 @@ https://www.linkedin.com/in/christopher-chamblin/
 <img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img align="left" alt="React" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+<img align="left" alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img align="left" alt="Nodejs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="VS Code" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Pycharm" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img align="left" alt="Azure" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
