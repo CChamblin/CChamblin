@@ -18,6 +18,7 @@ https://www.linkedin.com/in/christopher-chamblin/
 <img align="left" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="SQL" src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img align="left" alt="React" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
