@@ -16,7 +16,7 @@ https://www.linkedin.com/in/christopher-chamblin/
 
 ### My resume
 
-https://docs.google.com/document/d/18B8LDIHkqWfRpWkRAC-8RxqhNOLJ5XyxrTaQH4JGgig/edit?usp=sharing
+https://docs.google.com/document/d/1BzlpOCZPRS5pz2J4zv6Gqra2TAcLlUijgR-8V5JsMmM/edit?usp=sharing
 
 ### Languages and Tools:
 <img align="left" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
